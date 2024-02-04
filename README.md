@@ -1,2 +1,2 @@
 # UvcCast
-UVC Device  for Android. (eg. usb camera、another android device)
+UVC Device  for Android. (eg. usb camera, usb uvc devices, another android device)
