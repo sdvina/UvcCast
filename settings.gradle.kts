@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "UvcCast"
 include(":app")
+include(":nativelib")
